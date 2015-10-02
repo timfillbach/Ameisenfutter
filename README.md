@@ -1,2 +1,3 @@
-# Ameisenfutter
-Bundeswettbewerb Informatik Aufgabe 2 Ameisenfutter
+
+BUNDESWETTBEWERB INFORMATIK
+Aufgabe 2: Ameisenfutter
